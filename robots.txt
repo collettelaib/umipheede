@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aenophohs.naradi-bosch.com/sitemap.xml
